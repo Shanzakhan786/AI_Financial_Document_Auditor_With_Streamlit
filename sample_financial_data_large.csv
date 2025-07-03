@@ -1,0 +1,13 @@
+Label,Amount,Total,Year,Department,Notes
+Current Assets,120000,120000,2024,Finance,All liquid assets
+Current Liabilities,60000,60000,2024,Finance,Short-term obligations
+Total Debt,90000,90000,2024,Finance,Long-term and short-term debt
+Total Equity,30000,30000,2024,Finance,Shareholder equity
+Revenue,350000,350000,2024,Sales,Total sales revenue
+Expenses,250000,250000,2024,Sales,Operating expenses
+Cash,40000,40000,2024,Finance,On hand
+Accounts Receivable,20000,20000,2024,Finance,Outstanding invoices
+Accounts Payable,10000,10000,2024,Finance,Outstanding bills
+Inventory,15000,15000,2024,Warehouse,Stock on hand
+Other Assets,5000,5000,2024,Finance,Miscellaneous assets
+Other Liabilities,3000,3000,2024,Finance,Miscellaneous liabilities

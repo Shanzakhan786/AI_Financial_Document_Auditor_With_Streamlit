@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+pytesseract
+opencv-python
+PyMuPDF
+pdf2image
+jinja2
+weasyprint
+openpyxl
+tabula-py
+streamlit
